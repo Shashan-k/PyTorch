@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # PyTorch Learning Examples
 
 This repository contains a collection of PyTorch examples and learning materials demonstrating fundamental concepts in deep learning using PyTorch.
