@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PyTorch Learning Examples
 
 This repository contains a collection of PyTorch examples and learning materials demonstrating fundamental concepts in deep learning using PyTorch.
@@ -66,3 +67,6 @@ The examples are provided in a Jupyter notebook format. You can run them sequent
 ## License
 
 This project is open source and available under the MIT License. 
+=======
+# PyTorch
+>>>>>>> origin/main
